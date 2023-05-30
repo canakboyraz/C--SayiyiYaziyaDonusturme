@@ -1,0 +1,17 @@
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\bin\Debug\net7.0-windows\Hesapla.exe
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\bin\Debug\net7.0-windows\Hesapla.deps.json
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\bin\Debug\net7.0-windows\Hesapla.runtimeconfig.json
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\bin\Debug\net7.0-windows\Hesapla.dll
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\bin\Debug\net7.0-windows\Hesapla.pdb
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.csproj.AssemblyReference.cache
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.Form1.resources
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.csproj.GenerateResource.cache
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.AssemblyInfoInputs.cache
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.AssemblyInfo.cs
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.csproj.CoreCompileInputs.cache
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.dll
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\refint\Hesapla.dll
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.pdb
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\Hesapla.genruntimeconfig.cache
+C:\Users\Akboyraz\source\repos\Hesapla\Hesapla\obj\Debug\net7.0-windows\ref\Hesapla.dll
